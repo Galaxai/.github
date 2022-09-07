@@ -7,7 +7,7 @@ Galaxai is a special networking platform for the AI/ML community, in Galaxai peo
 
 ## Our philosophy
 
-- linked-in is not cool, graphs are cool.
+- linkedin is not cool, graphs are cool.
 - we want for our platform to be focused on people not posts.
 - the social feed in other platforms is full of noise, irrelevant voices and distractions.
 - in other networks users are always trapped in social bubbles, little do they explore and discover new people.
