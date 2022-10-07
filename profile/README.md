@@ -1,6 +1,7 @@
 # Galaxai 
 
-better networking ... coming soon ! 
+better networking ... coming soon !
+we are re-imagining social networks
 
 ## about
 🌌 Galaxai is a special networking platform for the AI/ML community, in Galaxai people are represented as nodes in a huge graph, the more similar their AI background is the closer their nodes are.
